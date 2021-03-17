@@ -2,3 +2,5 @@ data/
 pickles/
 .ipynb_checkpoints/
 .DS_Store
+credentials.py
+__pycache__/
